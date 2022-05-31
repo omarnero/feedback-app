@@ -1,7 +1,7 @@
 const FeedbackData = [
   {
     id: 1,
-    rating: 10,
+    rating: 5,
     text: "bedo is the agly boy.",
   },
   {
@@ -12,7 +12,7 @@ const FeedbackData = [
   {
     id: 3,
     rating: 0,
-    text: "fuck mother of kory",
+    text: "fuck mother's of kory",
   },
 ];
 
