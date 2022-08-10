@@ -9,11 +9,6 @@ const FeedbackData = [
     rating: 9,
     text: "hassan is good but sommer man.",
   },
-  {
-    id: 3,
-    rating: 0,
-    text: "fuck mother's of kory",
-  },
 ];
 
 export default FeedbackData;
